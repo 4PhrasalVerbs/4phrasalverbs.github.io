@@ -2,7 +2,7 @@
 
 a:link,a:visited{background-color:transparent;color:#1773c8;text-decoration:none;border-bottom:2px solid #1773c8}
 a:hover{background-color:#ddd;border-bottom:2px solid #1773c8}
-a.OMG:link,a.OMG:visited{background-color:transparent;color:#4a6ebc;border-bottom:none}
+a.OMG:link,a.OMG:visited{background-color:transparent;color:#017E3C;border-bottom:none}
 a.OMG:hover{color:#1773c8}.right{text-align:right}body{background-color:#fff;color:#000}
 hr.grey{color:#aaa;background-color:#aaa;height:2px}h1 {letter-spacing: 4px}
 ul.menulist {list-style-type: square;margin: 0.5em 0 0 0;}
@@ -16,7 +16,7 @@ table.betterbw thead th:first-child {border-left: none;}
 table.betterbw tfoot {font-size: 18px;font-weight: bold;}
 table.betterbw tfoot td {font-size: 18px;}
 table.betternotes {border: 1px solid #DDDDDD;width: 100%;text-align: left;border-collapse: collapse;}
-.redtext  {color:#9b1713;}
+.redtext  {color:#017E3C;}
 .responsive {width: 100%;height: auto;}
 .videoWrapper{position: relative; padding-bottom: 56.25%; height: 0;}.videoWrapper iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
 .freakinghuge {font-size: 3em;}
