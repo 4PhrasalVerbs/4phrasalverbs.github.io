@@ -3,7 +3,8 @@
 a:link,a:visited{background-color:transparent;color:#1773c8;text-decoration:none;border-bottom:2px solid #1773c8}
 a:hover{background-color:#ddd;border-bottom:2px solid #1773c8}
 a.OMG:link,a.OMG:visited{background-color:transparent;color:#124292;border-bottom:none}
-a.OMG:hover{color:#1773c8}.right{text-align:right}body{background-color:#fff;color:#000}
+a.OMG:hover{color:#1773c8}.right{text-align:right}
+body{background-color:#fff;color:#000}
 hr.grey{color:#aaa;background-color:#aaa;height:2px}h1 {letter-spacing: 4px}
 ul.menulist {list-style-type: square;margin: 0.5em 0 0 0;}
 .superscript {font-size: .7em;line-height: 0.5em;vertical-align: baseline;position: relative;top: -0.4em;}
